@@ -1,4 +1,4 @@
-# EduConnect - Online Tutoring Platform
+# Online Tutoring Platform
 
 ## Description
 EduConnect is a web application designed to provide students with easy access to quality tutoring outside traditional classrooms. It allows learners to connect with verified tutors, schedule sessions, join video calls, and make secure payments, all within a single platform.
